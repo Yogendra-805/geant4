@@ -1,0 +1,4 @@
+/home/particle/Desktop/detector/build/CMakeFiles/simulation.dir
+/home/particle/Desktop/detector/build/CMakeFiles/Simulation.dir
+/home/particle/Desktop/detector/build/CMakeFiles/edit_cache.dir
+/home/particle/Desktop/detector/build/CMakeFiles/rebuild_cache.dir
